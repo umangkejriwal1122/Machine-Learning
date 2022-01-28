@@ -1,0 +1,3 @@
+python -m pip install --user opencv-contrib-python
+
+pip install opencv-contrib-python
